@@ -1,6 +1,8 @@
 # Make sure is: Set-ExecutionPolicy RemoteSigned
 $RemoveThatFuckingShit = Read-Host "What program do you want to delete: ";
 
+
+#Following code by ChatGPT-4.0 mini
 # Define the pattern to search for
 $pattern = "*$RemoveThatFuckingShit*"
 
