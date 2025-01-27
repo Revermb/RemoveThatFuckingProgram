@@ -1,4 +1,4 @@
-# Make sure is: Set-ExecutionPolicy RemoteSigned;
+# Make sure is: Set-ExecutionPolicy RemoteSigned
 $RemoveThatFuckingShit = Read-Host "What program do you want to delete: ";
 
 # Define the pattern to search for
